@@ -1,0 +1,33 @@
+/*--==================== PRICE ====================-*/
+.pricing-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.pricing-table th,
+.pricing-table td {
+    padding: 1rem;
+    border: 1px solid #ddd;
+}
+
+.pricing-table th {
+    background-color: #f3f3f3;
+    font-weight: bold;
+}
+
+.pricing-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.section_title {
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+}
+
+.pricing-table img.icon {
+    width: 24px;
+    height: 24px;
+}
