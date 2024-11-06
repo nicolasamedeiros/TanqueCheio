@@ -12,7 +12,7 @@ O "Tanque Cheio" é um projeto dedicado a ajudar os usuários a encontrarem os m
 Se você é um investidor interessado em apoiar nossa startup e ajudar a transformar a forma como as pessoas cuidam de seus veículos, entre em contato conosco para discutir oportunidades de investimento.
 
 ## Contato
-Para dúvidas sobre o aplicativo ou informações sobre a nossa startup, entre em contato pelo meu LinkedIn: [Matheus Inácio](https://www.linkedin.com/in/matheus-inácio-22353823a/).
+Para dúvidas sobre o aplicativo ou informações sobre a nossa startup, entre em contato pelo meu LinkedIn: [Nicolas Medeiros](https://www.linkedin.com/in/nicolasamedeiros/).
 
 ## Licença
 Esse projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
